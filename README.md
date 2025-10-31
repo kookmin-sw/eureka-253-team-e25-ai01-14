@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gSldEXG6)
+![유레카 발표](https://github.com/user-attachments/assets/e291c4c0-f648-41d0-9ccd-486603afd352)[유레카 발표 (1).pdf](https://github.com/user-attachments/files/23247762/1.pdf)[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gSldEXG6)
 # Welcome to 조진다용팀
 
 ## 1️⃣ 팀원 소개
@@ -13,6 +13,7 @@
 
 유레카프로젝트 프로젝트 팀 생성을 축하합니다.
 유레카프로젝트 프로젝트 팀의 제목과 팀원의 이름 및 관심사를 변경하세요.
+
 
 ### 팀 슬로건
 
@@ -53,7 +54,7 @@ AI로 미래를 밝히다.
   - 우리가 그리는 미래 그리고 나
 
   - 4주차 활동
-  - # MIT Sixth Sense 연구팀이 만들고자 했던 것은?
+  - ## MIT Sixth Sense 연구팀이 만들고자 했던 것은?
 - Why?: 디지털 세계를 현실과 융합하고, 더 직관적인 상호작용이 가능하게 하도록 하기 위함
 - What?: 신문에서 영상 강의와 실시간 강의까지 확인할 수 있는 시스템, 카메라없이 촬영할 수 있는 사진
 - HOW?: 현실 세계와 디지털 세계를 연결할 수 있는 장치를 통해 사람의 제스쳐를 인식하여 프로젝터가 어떤 표면(손, 책, 벽 등)에 제스쳐와 관련된 정보를 투사함
@@ -79,6 +80,10 @@ AI로 미래를 밝히다.
 
   - ## 3. 나노로봇과 줄기세포 캡슐을 통한 질병 치유 기술
 - 줄기세포를 장착한 나노로봇이 캡슐속에 들어있다. 나노로봇은 혈관속으로 들어가 질병 치료가 필요하거나 문제가 생긴 부분을 줄기세포를 이용해 치료한다. 또한 체내에 제거해야할 대상이 있는 경우에는 그 대상을 없앤 뒤 줄기세포를 이용해 정상적인 상태로 복원한다.
+
+- 우리가 생각한 미래 모습 발표
+  ![유레카 발표](https://github.com/user-attachments/assets/d61adfcb-e057-4651-baa7-d9f3354ece7a)
+
 
 - 각오와 소감 나누기 ✔️  
 
